@@ -6,6 +6,8 @@ int main(){
     if (jeonghyun == "like ronaldo") {
         cout << "Hello World" << endl;
     }
-
+    else {
+        //
+    }
     return 0;
 }
